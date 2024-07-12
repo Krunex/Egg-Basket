@@ -4,8 +4,7 @@ Upload project to P5JS to further customize and build on the game.
 
 P5JS Website: https://p5js.org/
 
-Control Scheme:
+General Control Scheme:
 
-Left and Right Arrow keys - Movement
-Spacebar - Pause
+Movement is done with left and right arrow keys. Spacebar can be used to pause game
 
