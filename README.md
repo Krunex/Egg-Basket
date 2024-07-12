@@ -4,3 +4,8 @@ Upload project to P5JS to further customize and build on the game.
 
 P5JS Website: https://p5js.org/
 
+Control Scheme:
+
+Left and Right Arrow keys - Movement
+Spacebar - Pause
+
